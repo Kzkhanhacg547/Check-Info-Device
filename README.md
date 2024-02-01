@@ -10,6 +10,7 @@
 Trước hết, bạn cần tạo một thư mục để lưu trữ các hình ảnh. Đặt tên thư mục là "images" để dễ nhận biết.
 ```bash
 mkdir images
+```
 2. Kiểm tra thông tin thiết bị
 Sau khi tạo thư mục "images", bạn có thể sử dụng ứng dụng để kiểm tra thông tin về thiết bị một cách thuận tiện và an toàn.
 
